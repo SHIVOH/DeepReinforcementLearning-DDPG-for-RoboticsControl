@@ -9,7 +9,7 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 
 ### Environment
-A Unity Environment containing 20 identical agents, each with its own copy of the environment.
+A [Unity Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) containing 20 identical agents, each with its own copy of the environment.
 
 ### Solving the Environment
 
