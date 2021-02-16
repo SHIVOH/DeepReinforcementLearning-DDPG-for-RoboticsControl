@@ -23,7 +23,7 @@ This yields an average score for each episode (where the average is over all 20 
 
 ## My Solution
 
-![image](https://github.com/SHIVOH/Deep-Reinforcement-Learning-My-First-DQN-Agent/blob/main/resultDRL.png)
+![image](https://github.com/SHIVOH/DeepReinforcementLearning-DDPG-for-RoboticsControl/blob/main/finaltraining.png)
 - Run [Continuous_Control.ipynb](/Continuous_Control.ipynb)
 - See a glimpse of my [agent during training](https://www.youtube.com/watch?v=Juf2DxgTaGk) on YouTube.
 - Do checkout my [Report](/Report.pdf) for more theoretical explanation of the project implementation.
