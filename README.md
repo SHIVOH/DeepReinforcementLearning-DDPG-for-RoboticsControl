@@ -20,7 +20,7 @@ This yields an average score for each episode (where the average is over all 20 
 - Gain a basic understanding of [Unity Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher)
 - Set up a Python 3.6 Environment to install [Dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies) involving PyTorch, the ML-Agent toolkit and a few more Python packages.
 - Download a Unity Environment for [Windows(64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)/[Windows(32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)/[Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)/[LINUX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
-- [Here is an interesting implementation of DDPG Algorithm](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum)
+- Here is an interesting implementation of [DDPG Algorithm](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum)
 ## My Solution
 
 ![image](https://github.com/SHIVOH/DeepReinforcementLearning-DDPG-for-RoboticsControl/blob/main/finaltraining.png)
