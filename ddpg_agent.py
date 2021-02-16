@@ -74,8 +74,9 @@ class Agent():
         if add_noise:
             action += self.noise.sample()
         return np.clip(action, -1, 1)
-
+    
     def reset(self):
+        """reset the noise function values"""
         self.noise.reset()
 
     def learn(self, experiences, gamma):
