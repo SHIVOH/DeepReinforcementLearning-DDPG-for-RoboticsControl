@@ -21,6 +21,9 @@ class Actor(nn.Module):
             seed (int): Random seed
             fc1_units (int): Number of nodes in first hidden layer
             fc2_units (int): Number of nodes in second hidden layer
+            fc3_units (int): Number of nodes in third hidden layer
+            fc4_units (int): Number of nodes in forth hidden layer
+            fc5_units (int): Number of nodes in fifth hidden layer
         """
         super(Actor, self).__init__()
         self.seed = torch.manual_seed(seed)
@@ -62,6 +65,9 @@ class Critic(nn.Module):
             seed (int): Random seed
             fc1_units (int): Number of nodes in the first hidden layer
             fc2_units (int): Number of nodes in the second hidden layer
+            fc3_units (int): Number of nodes in third hidden layer
+            fc4_units (int): Number of nodes in forth hidden layer
+            fc5_units (int): Number of nodes in fifth hidden layer
         """
         super(Critic, self).__init__()
         self.seed = torch.manual_seed(seed)
