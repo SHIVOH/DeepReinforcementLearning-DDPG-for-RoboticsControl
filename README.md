@@ -20,3 +20,10 @@ This yields an average score for each episode (where the average is over all 20 
 - Gain a basic understanding of [Unity Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher)
 - Set up a Python 3.6 Environment to install [Dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies) involving PyTorch, the ML-Agent toolkit and a few more Python packages.
 - Download a Unity Environment for [Windows(64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)/[Windows(32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)/[Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)/[LINUX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
+
+## My Solution
+
+![image](https://github.com/SHIVOH/Deep-Reinforcement-Learning-My-First-DQN-Agent/blob/main/resultDRL.png)
+- Run [Navigation.ipynb](/Navigation.ipynb)
+- See a glimpse of my [agent during training](https://www.youtube.com/watch?v=GsU6uDynaw8) and my [trained agent](https://www.youtube.com/watch?v=aMmo9q_zODk) collecting bananas on YouTube.
+- Do checkout my [Report](/Report.pdf) for more theoretical explanation of the project implementation.
