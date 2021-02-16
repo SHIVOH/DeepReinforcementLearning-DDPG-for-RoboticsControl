@@ -10,7 +10,7 @@ In this environment, a double-jointed arm can move to target locations.
 #### `continuous`
 The observation space consists of 33 variables corresponding to position, rotation, velocity, angular velocity of the arm as well as information related to the target location.
 ### Action space    
-####`continuous`
+#### `continuous`
 Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
 
 ### Reward 
