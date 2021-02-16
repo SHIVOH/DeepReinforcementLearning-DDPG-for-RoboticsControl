@@ -26,4 +26,4 @@ This yields an average score for each episode (where the average is over all 20 
 ![image](https://github.com/SHIVOH/DeepReinforcementLearning-DDPG-for-RoboticsControl/blob/main/finaltraining.png)
 - Run [Continuous_Control.ipynb](/Continuous_Control.ipynb)
 - See a glimpse of my [agent](https://www.youtube.com/watch?v=Juf2DxgTaGk) on YouTube.
-- Do checkout my [Report](/DDPG Report.pdf) for more theoretical explanation of the project implementation.
+- Do checkout my [Report](https://github.com/SHIVOH/DeepReinforcementLearning-DDPG-for-RoboticsControl/blob/main/DDPG%20Report.pdf) for more theoretical explanation of the project implementation.
