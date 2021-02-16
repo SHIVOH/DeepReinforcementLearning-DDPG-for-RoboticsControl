@@ -6,9 +6,9 @@ This is an implementation of Deep Reinforcement Learning algorithm named Deep de
 ### Environment
 A [Unity Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) containing 20 identical agents, each with its own copy of the environment.
 In this environment, a double-jointed arm can move to target locations. 
-### observation space #### `continuous`
+### observation space    #### `continuous`
 The observation space consists of 33 variables corresponding to position, rotation, velocity, angular velocity of the arm as well as information related to the target location.
-### Action space ####`continuous`
+### Action space     ####`continuous`
 Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
 
 ### Reward 
